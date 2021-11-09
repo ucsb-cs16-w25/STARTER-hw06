@@ -1,3 +1,13 @@
 *.o
 *~
 .DS_Store
+
+# Specific executables
+
+areaOfBoxTest
+boxesApproxEqualTest
+distanceBetweenTest
+initBoxTest
+initPointTest
+pointToStringTest
+pointsApproxEqualTest
