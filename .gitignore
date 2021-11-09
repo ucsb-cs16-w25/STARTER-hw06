@@ -11,3 +11,4 @@ initBoxTest
 initPointTest
 pointToStringTest
 pointsApproxEqualTest
+boxToStringTest
