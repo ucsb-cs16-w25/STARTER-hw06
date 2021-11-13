@@ -2,7 +2,6 @@
 #include <string>
 #include <sstream>  // for ostringstream
 #include <iomanip> // for setprecision
-#include "utility.h"
 
 using namespace std;
 
