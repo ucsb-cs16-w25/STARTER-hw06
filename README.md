@@ -1,3 +1,3 @@
-# STARTER-gsa06
+# STARTER-hw06
 
-https://ucsb-cs16.github.io/s24/gsa06.html
+https://iris.csedu.cs.ucsb.edu/page/cs16-hw/hw6-pointers-and-structs
